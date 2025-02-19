@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Md%20Ajbullah%20Mansuri/static/css/main.bf538fe7.css",
+    "main.js": "/Md%20Ajbullah%20Mansuri/static/js/main.bd077ef9.js",
+    "static/media/HeroImage.jpg": "/Md%20Ajbullah%20Mansuri/static/media/HeroImage.85f72d25bdc4ca240c39.jpg",
+    "index.html": "/Md%20Ajbullah%20Mansuri/index.html",
+    "main.bf538fe7.css.map": "/Md%20Ajbullah%20Mansuri/static/css/main.bf538fe7.css.map",
+    "main.bd077ef9.js.map": "/Md%20Ajbullah%20Mansuri/static/js/main.bd077ef9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.bd077ef9.js"
+  ]
+}
